@@ -14,7 +14,7 @@
 	<name>Coronavirus-Tracker</name>
 	<description>Tracking coronavirus cases</description>
 	<properties>
-		<java.version>19</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -51,7 +51,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>spring-boot-coronavirus-tracker</finalName>
+		<finalName>coronavirus-tracker</finalName>
 	</build>
 
 </project>
